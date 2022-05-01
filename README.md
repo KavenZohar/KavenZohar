@@ -1,0 +1,2 @@
+- 👋 Hi, my name is Khoi
+- 👀 My nickname is Kaven
