@@ -1,37 +1,35 @@
 # 👋 Hi there!, i'm Kaven
-
-
-
+- I am a technology enthusiast and passionate about programming.
+___
 ## Skill
-### Website
 
+### Website:
 <p align='left'>
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" width="37" style="padding-right:10px;" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width="37" style="padding-right:10px;" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" width="37" style="padding-right:10px;" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql.svg" width="37" style="padding-right:10px; " alt="PostgreSQL"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?logo=html5">
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=3b86ff">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql">
 </p>
 
-### Framework
-
+### Framework:
 <p align='left'>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs.svg" width="37" style="padding-right:10px;" alt="NodeJS"/>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/express.svg" width="37" style="padding-right:10px;" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg" width="37" style="padding-right:10px; " alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="37" style="padding-right:10px; " alt="Discord.js"/>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/npm.svg" width="37" style="padding-right:10px; " alt="Npm"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-black?logo=node.js">
+  <img alt="Express" src="https://img.shields.io/badge/-Express-black?logo=express">
+  <img alt="React" src="https://img.shields.io/badge/-React-black?logo=react">
+  <img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-black?logo=discord">
+  <img alt="Npm" src="https://img.shields.io/badge/-Npm-black?logo=npm&logoColor=db0000">
 </p>
 
-### Other
-
+### Other:
 <p align='left'>
-  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/autohotkey.png" width="37" style="padding-right:10px; " alt="AutoHotKey"/>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" width="37" style="padding-right:10px; " alt="Python"/>
+  <img alt="AutoHotKey" src="https://img.shields.io/badge/-AutoHotKey-black?logo=autohotkey">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-black?logo=python">
 </p>
 
-### OS
-
+### OS:
 <p align='left'>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/archlinux.svg" width="37" style="padding-right:10px; " alt="Arch Linux"/>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/microsoft-windows.svg" width="37" style="padding-right:10px; " alt="Windows"/>
+  <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-black?logo=archlinux">
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?logo=windows">
 </p>
+
+___
