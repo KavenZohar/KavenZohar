@@ -3,7 +3,7 @@
 ___
 ## Skill
 
-### Website:
+#### Website:
 <p align='left'>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?logo=html5">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=3b86ff">
@@ -11,7 +11,7 @@ ___
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql">
 </p>
 
-### Framework:
+#### Framework:
 <p align='left'>
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-black?logo=node.js">
   <img alt="Express" src="https://img.shields.io/badge/-Express-black?logo=express">
@@ -20,13 +20,13 @@ ___
   <img alt="Npm" src="https://img.shields.io/badge/-Npm-black?logo=npm&logoColor=db0000">
 </p>
 
-### Other:
+#### Other:
 <p align='left'>
   <img alt="AutoHotKey" src="https://img.shields.io/badge/-AutoHotKey-black?logo=autohotkey">
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?logo=python">
 </p>
 
-### OS:
+#### OS:
 <p align='left'>
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-black?logo=archlinux">
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?logo=windows">
